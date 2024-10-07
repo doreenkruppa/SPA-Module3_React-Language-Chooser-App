@@ -1,0 +1,28 @@
+body {
+  background-image: url(./image/andy-holmes-rCbdp8VCYhQ-unsplash.jpg);
+}
+.App {
+  text-align: center;
+  width: 50%;
+  height: 25rem;
+  margin: 6rem auto;
+  padding: 1rem;
+  background-color: rgba(205, 170, 238, 0.8);
+}
+
+#LanguageChooser h4,
+select {
+  display: inline;
+  margin: 2rem 5px;
+}
+#content h1 {
+  padding: 2rem;
+}
+
+#content h2 {
+  margin-bottom: 3rem;
+}
+
+#content p {
+  font-size: large;
+}
