@@ -4,7 +4,7 @@
 
 created at 03.03.23;
 
-Created a React App using different components [LanguageChooser.js](./myapp/src/components/Header/LanguageChooser.js) and [WelcomeMessage.js](./myapp/src/components/Content/WelcomeMessage.js) and the React-Hook `useContext`.
+Created a React App using different components [LanguageChooser.js](./src/components/Header/LanguageChooser.js) and [WelcomeMessage.js](./src/components/Content/WelcomeMessage.js) and the React-Hook `useContext`.
 The App has oriented to the Mockup a dropdown-list, where the user can choose between different languages, e.g. (GER, ENG,Turkish etc). If the user changes the language settings, the text is updated accordingly and is shown in the language, the user has choosen.
 
 For example:
@@ -14,11 +14,11 @@ For example:
 
 ### Mockup:
 
-![mockup](./myapp/src/image/language-setter.gif)
+![mockup](./src/image/language-setter.gif)
 
 ### My Version:
 
-![my_version](./myapp/src/image/my_version.gif)
+![my_version](./src/image/my_version.gif)
 
 #### image-source:
 
